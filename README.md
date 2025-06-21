@@ -39,3 +39,22 @@ This is a Flask-based web application that predicts whether a credit card applic
 ```bash
 git clone https://github.com/YOUR_USERNAME/credit-card-approval.git
 cd credit-card-approval
+```
+
+### 2. Create and activate virtual environment
+```bash
+python -m venv venv
+venv\Scripts\activate   # For Windows
+# source venv/bin/activate  # For Mac/Linux
+```
+
+### 3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the app
+```bash
+python app.py
+```
+Open http://localhost:5000 in your browser.
