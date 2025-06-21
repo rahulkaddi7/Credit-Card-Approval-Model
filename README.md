@@ -9,7 +9,7 @@ This is a Flask-based web application that predicts whether a credit card applic
 
 ## 🚀 Live Demo
 
-🔗 [Live App on Render](https://your-app-name.onrender.com)  
+🔗 [Live App on Render] (https://credit-card-approval-model.onrender.com)  
 
 ---
 
