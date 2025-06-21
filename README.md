@@ -2,8 +2,8 @@
 
 This is a Flask-based web application that predicts whether a credit card application will be approved based on user input. It uses a machine learning model trained on demographic and financial data.
 
-![App Screenshot](![image](https://github.com/user-attachments/assets/721e3e94-e1f7-48d0-b702-57e997976eb7)
-) <!-- Optional: Replace with actual image path -->
+![image](https://github.com/user-attachments/assets/53d06383-06c4-4c10-8a26-a808469cd4e6)
+
 
 ---
 
