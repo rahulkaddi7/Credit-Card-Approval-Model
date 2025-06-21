@@ -2,10 +2,7 @@
 
 This is a Flask-based web application that predicts whether a credit card application will be approved based on user input. It uses a machine learning model trained on demographic and financial data.
 
----
-
 ## 🚀 Live Demo - [Link](https://credit-card-approval-model.onrender.com)  
-
 
 ## 🧠 Features
 
@@ -13,6 +10,7 @@ This is a Flask-based web application that predicts whether a credit card applic
 - Predicts approval based on inputs like income, employment, education, etc.
 - Built with Flask and deployed on Render
 - Uses a trained machine learning model
+  
 ![image](https://github.com/user-attachments/assets/53d06383-06c4-4c10-8a26-a808469cd4e6)
 
 ---
