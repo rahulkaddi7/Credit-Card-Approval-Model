@@ -1,0 +1,29 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Ignore Jupyter Notebook backup files
+.ipynb_checkpoints/
+*.ipynb
+
+# Ignore dataset files
+*.csv
+*.zip
+
+# Ignore model training checkpoints (optional)
+*.sav
+*.h5
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# VS Code specific (optional)
+.vscode/
