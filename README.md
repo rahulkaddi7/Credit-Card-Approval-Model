@@ -7,9 +7,8 @@ This is a Flask-based web application that predicts whether a credit card applic
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo - [Link](https://credit-card-approval-model.onrender.com)  
 
-🔗 [Live App on Render](https://credit-card-approval-model.onrender.com)  
 
 ---
 
@@ -18,7 +17,7 @@ This is a Flask-based web application that predicts whether a credit card applic
 - User-friendly web interface
 - Predicts approval based on inputs like income, employment, education, etc.
 - Built with Flask and deployed on Render
-- Uses a trained machine learning model (`model.pkl`)
+- Uses a trained machine learning model
 
 ---
 
@@ -29,7 +28,7 @@ This is a Flask-based web application that predicts whether a credit card applic
 - Scikit-learn
 - Pandas
 - HTML + Jinja2 templates
-- Deployed on: [Render](https://render.com)
+- Deployed on: Render
 
 ---
 
