@@ -1,8 +1,6 @@
-# Credit Card Approval Prediction App
+# Credit Card Approval Prediction App - [Link](https://credit-card-approval-model.onrender.com)  
 
 This is a Flask-based web application that predicts whether a credit card application will be approved based on user input. It uses a machine learning model trained on demographic and financial data.
-
-## 🚀 Live Demo - [Link](https://credit-card-approval-model.onrender.com)  
 
 ## 🧠 Features
 
